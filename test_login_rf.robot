@@ -38,6 +38,7 @@ LOGOUT OF THE SYSTEM
     Type in email
     Type in password
     Click on the Sign in button
+    Open dashboard
     Click on the Sign out button
     Assert Login Page
     [Teardown]  Close browser
